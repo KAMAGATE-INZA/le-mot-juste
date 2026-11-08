@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kamagate-inza.github.io/le-mot-juste/sitemap.xml
